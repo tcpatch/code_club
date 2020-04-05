@@ -1,7 +1,7 @@
 """
 CodeClub Meeting #1
 
-. Puppy and/or Kitten?
+1. Puppy and/or Kitten?
 - You pick up two random animals from a box. If both animals are a kitten,
   return True. If both animals are a puppy return True. If one animal is a
   puppy and one animal is a kitten, return False.
