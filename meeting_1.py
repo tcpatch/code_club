@@ -68,6 +68,8 @@ if __name__ == '__main__':
     if args.a:
         val = puppy_or_kitten()
         print('Value returned: {}'.format(val))
+    if args.a and args.b:
+        print('-'*35)
     if args.b:
         coin_flip(args.n_flips)
 
